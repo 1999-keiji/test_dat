@@ -1,0 +1,2 @@
+# test_dat
+Fsystemでのdat出力時間を検証するための検証用アプリ
